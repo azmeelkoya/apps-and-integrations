@@ -1,0 +1,10 @@
+/* @import url('https://use.typekit.net/iuh6nhh.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/fontawesome.min.css');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+@import url('https://surveysparrow.com/integrations/assets/css/ss-integration.min.css'); */
+
+
+.ss_email_signup--navbar {
+    display: none !important;
+}
+

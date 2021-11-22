@@ -1,0 +1,68 @@
+
+.app-details-page .ss_email_signup--navbar{
+
+        display: none !important;
+
+}
+
+/* 
+.ss-integration-inner--banner {
+    padding: 180px 0 120px;
+}
+
+.ss-integration-inner--banner .item-full {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.ss-integration-inner--banner .item-full .item-left {
+    width: 28%;
+}
+
+.ss-integration-inner--banner .item-full .item-left .ss-integration-inner--logo {
+    width: 100%;
+    text-align: center;
+    margin: 0 0 80px;
+}
+
+.ss-integration-inner--banner .item-full .item-left .ss-integration-inner--logo img {
+    width: 148px;
+    height: 148px;
+}
+.ss-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+    line-height: 48px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all .3s;
+    font-size: 16px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-weight: 600;
+    padding: 0 2rem;
+    max-width: 175px;
+}
+.ss-integration-inner--banner .item-full .item-left .ss-btn.ss-btn--secondary {
+    border-radius: 0;
+    max-width: 100%;
+    text-align: left;
+    justify-content: flex-start;
+    margin: 0 0 4px;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 300;
+    color: #000;
+    text-transform: unset;
+    border-bottom: .3px solid rgba(0,0,0,.3);
+}
+.ss-integration-inner--banner .item-full .item-right {
+    width: 65%;
+}
+ */
+ 
